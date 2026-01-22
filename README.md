@@ -113,8 +113,23 @@ Target Questions: 40–50
 10. Print first n terms of a geometric progression (a, r).
 
 🔵 Level 4: Pattern Printing (Stars & Numbers)
+
 (These train nested loop thinking — must-do for logic growth.)
+
 Solve this Sheet for Star printing Practice: 
+
+🔴 Level 5: Logical Loop Combinations
+1. Print all numbers whose sum of digits is even (1–100).
+2. Count how many numbers between 1–500 are divisible by 7 but not by 5.
+3. Print all numbers that are palindromes between 1–500.
+4. Print numbers between 1–100 whose digits add up to a multiple of 3.
+5. Find the smallest and largest digit in a given number.
+6. Print all numbers from 1–n whose binary representation has an even number of 1s.
+7. Print a pattern where each row i prints i*i.
+8. Print factorial of each number from 1 to n.
+9. Print the sum of all odd digits and even digits separately in a number.
+10. Take 5 numbers as input. If the user enters 0, skip it using continue. At the end, print
+the sum of all non-zero numbers entered.
 
 ## Phase 3 – Recursion (Thinking in self- reference) 
 
