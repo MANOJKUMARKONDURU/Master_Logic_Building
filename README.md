@@ -1,6 +1,6 @@
 # Master Logic Building
 
-## Phase 1 - Conditional Thinking (if-else, Boolean Logic)
+### Phase 1 - Conditional Thinking (if-else, Boolean Logic)
 🎯Goal: Understand how to make decisions using conditions.
 
 Topics covered: Relational operators, logical operators, nested if, multiple conditions.
