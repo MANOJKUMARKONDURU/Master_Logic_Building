@@ -4,6 +4,7 @@
 🎯Goal: Understand how to make decisions using conditions.
 Topics covered: Relational operators, logical operators, nested if, multiple conditions.
 Target Questions: 50
+
 🟢 Level 1: Simple Conditions (Getting started)
 1. Take a number and print whether it’s positive, negative, or zero.
 2. Check if a number is even or odd.
@@ -15,13 +16,14 @@ Target Questions: 50
 8. Take a temperature value and print “Cold”
 9. Take a character and check if it’s a vowel or consonant.
 character.
+
 🟡 Level 2: Nested If & Multiple Conditions
 scalene.
 CodeWithNishchal
 “Warm”
 ,
 , or “Hot” using range conditions.
-10. Take a character and check whether it’s uppercase, lowercase, a digit, or a special
+11. Take a character and check whether it’s uppercase, lowercase, a digit, or a special
 1. Take three sides and check if they form a valid triangle.
 2. If the sides form a valid triangle, determine whether it is equilateral, isosceles, or
 3. Take marks (0–100) and print the corresponding grade (A/B/C/D/F).
@@ -42,6 +44,7 @@ even and one is odd.
 9. Take a day number (1–7) and print the corresponding day name.
 10. Take a month number (1–12) and print the number of days in that month (ignore leap
 years).
+
 🟠 Level 3: Math and Number Logic
 1. Take a 3-digit number and check if all digits are distinct.
 2. Take a 3-digit number and determine if the middle digit is the largest, smallest, or
@@ -54,6 +57,7 @@ neither.
 8. Check if a number lies within the range [100, 999].
 9. Take two angles of a triangle and compute the third angle.
 10. Check whether a number is a perfect square (without using the square root function).
+
 🟢 Level 4: Logical Operators & Compound Statements
 1. Take a character and check if it is a letter, a digit, or neither.
 2. Take a number and print “Fizz” if divisible by 3,
@@ -65,12 +69,13 @@ neither.
 7. Take a single digit (0–9) and print its word form (“Zero” to “Nine”).
 8. Take a weekday number (1–7) and determine if it is a weekday or weekend.
 digit).
+
 🔴 Level 5: Creative / Tricky Logical Scenarios
 origin.
 CodeWithNishchal
 “Buzz” if divisible by 5, and
-9. Take electricity units consumed and calculate the bill as per slabs (using if-else).
-10. Take a password string and check basic rules (length ≥ 8 and contains at least one
+10. Take electricity units consumed and calculate the bill as per slabs (using if-else).
+11. Take a password string and check basic rules (length ≥ 8 and contains at least one
 1. Take coordinates (x, y) and check if the point lies on the X-axis, Y-axis, or at the
 2. Take three numbers and check if they can form a Pythagorean triplet.
 3. Take day and month and check if it forms a valid calendar date (ignoring leap years).
