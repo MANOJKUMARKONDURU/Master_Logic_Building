@@ -2,8 +2,10 @@
 
 ## Phase 1 - Conditional Thinking (if-else, Boolean Logic)
 🎯Goal: Understand how to make decisions using conditions.
+
 Topics covered: Relational operators, logical operators, nested if, multiple conditions.
-Target Questions: 50
+
+**Target Questions: 50**
 
 🟢 Level 1: Simple Conditions (Getting started)
 1. Take a number and print whether it’s positive, negative, or zero.
