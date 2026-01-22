@@ -1,6 +1,6 @@
 # Master Logic Building
 
-### Phase 1 - Conditional Thinking (if-else, Boolean Logic)
+## Phase 1 - Conditional Thinking (if-else, Boolean Logic)
 🎯Goal: Understand how to make decisions using conditions.
 
 Topics covered: Relational operators, logical operators, nested if, multiple conditions.
@@ -98,10 +98,10 @@ calendar.
 
 ## Phase 2 – Looping & Patterns (Iteration & Flow)
 
-**Phase 3** – Recursion (Thinking in self- reference)
+## Phase 3 – Recursion (Thinking in self- reference)
 
-**Phase 4** – Basic Arrays(Iterative Logical Thinking)
+## Phase 4 – Basic Arrays(Iterative Logical Thinking)
 
-**Phase 5** – Strings (Basic Logic Building )
+## Phase 5 – Strings (Basic Logic Building )
 
-**Phase 6** – Mixed Logical Challenges (Applied Reasoning)
+## Phase 6 – Mixed Logical Challenges (Applied Reasoning)
